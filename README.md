@@ -9,5 +9,4 @@ test.csv - test dataset
 
 train.csv - training dataset
 
-test_df.csv - test dataset after exploratory data analysis
-
+data_description - elaborates on the features
